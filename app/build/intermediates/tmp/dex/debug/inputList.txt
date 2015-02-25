@@ -1,0 +1,5 @@
+/home/tanay/AndroidStudioProjects/OpenstackDashboard/app/build/intermediates/classes/debug
+/home/tanay/AndroidStudioProjects/OpenstackDashboard/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5ce1fade46a58a672b325810db49f3b0c2e89f12.jar
+/home/tanay/AndroidStudioProjects/OpenstackDashboard/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ac6f01891c852c18540e169bd4fdda0f0dcf1376.jar
+/home/tanay/AndroidStudioProjects/OpenstackDashboard/app/build/intermediates/pre-dexed/debug/classes-1be0b851612da0545b9826f0b5f7f7fae9c17d9d.jar
+/home/tanay/AndroidStudioProjects/OpenstackDashboard/app/build/intermediates/pre-dexed/debug/classes-cdbfcdfef80e256a956579bc427773ef34063b1a.jar
